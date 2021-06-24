@@ -7,13 +7,17 @@ Screenshot after sorting the input values
 Steps to run the application:
 
 Download/clone the repo
+
 npm install
+
 to install react native dependencies
 
 npx react-native run-android
 
 iOS Specific
+
 cd ios & pod install
+
 npx react-native run-ios
 
 
