@@ -8,16 +8,16 @@ Steps to run the application:
 
 Download/clone the repo
 
-npm install
+>> npm install
 
 to install react native dependencies
 
-npx react-native run-android
+>> npx react-native run-android
 
 iOS Specific
 
-cd ios & pod install
+>> cd ios & pod install
 
-npx react-native run-ios
+>> npx react-native run-ios
 
 
